@@ -12,7 +12,7 @@ import promptSync from "prompt-sync";
 const myNewStack = new Stack();
 
 const prompt = promptSync();
-const someNumberString = prompt('Enter an integer: ');
+const someNumberString = prompt("Enter an integer: ");
 const someNumberInt = parseInt(someNumberString);
 myNewStack.push(someNumberInt);
 console.log("Stack before the pop is: ");
