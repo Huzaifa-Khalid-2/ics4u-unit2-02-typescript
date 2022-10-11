@@ -1,5 +1,5 @@
 /**
- * This program uses the MrCoxallStack
+ * This program uses the Stack
  *
  * By:      Huzaifa Khalid
  * Version: 1.0
